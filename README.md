@@ -1,2 +1,2 @@
 # cafe-menu
-this is my first project 
+this is my first project in python 
